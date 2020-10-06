@@ -9,3 +9,9 @@
 - ALTER
 - WHERE
 - AS
+- MIN
+- MAX
+- COUNT
+- AVG
+- SUM
+- LIKE
