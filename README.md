@@ -15,3 +15,6 @@
 - AVG
 - SUM
 - LIKE
+- ROUND
+- AND
+- OR
